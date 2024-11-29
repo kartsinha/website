@@ -1,8 +1,6 @@
 ---
 layout: page
-title: About
+title: Who am I?
 ---
 
-This is an example page!
-
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+I am a third year PhD student in Chemical Engineering who does research on problems related to polymer physics! 
